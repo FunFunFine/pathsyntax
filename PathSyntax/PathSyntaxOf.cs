@@ -6,6 +6,6 @@ namespace PathSyntax
     [PublicAPI]
     public static class PathSyntaxOf
     {
-        public static PathSyntax AsPath(this string part) => part;
+        public static PathTo AsPath(this string part) => part;
     }
 }
