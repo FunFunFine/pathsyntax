@@ -6,7 +6,7 @@ This library converts C# operator `/` to "/" or "\\" depending on system it runs
 ```csharp
 using PathSyntax;
 
-var path = (PathTo) "some" / "path" / "to.file";
+var path = (PathTo) "some" / "nested" / "file.f";
 ```
 or without cast
 ```csharp
