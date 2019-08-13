@@ -1,6 +1,6 @@
 # PathSyntax library
-Think about path separator no more! Use compile-time checked path building with this library;
-This library converts C# operator `/` to "/" or "\\" depending on system it runs on;
+Think about path separator no more! Use compile-time checked path building with this library.  
+This library converts C# operator `/` to "/" or "\\" depending on system it runs on.  
 # Examples
 * Building path from scratch
 ```csharp
