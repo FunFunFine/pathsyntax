@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Funfine</Authors>
+    <Description>Nice operator-based wrapper for Path.Combine;</Description>
+    <LangVersion>7</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

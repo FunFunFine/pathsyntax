@@ -8,3 +8,5 @@
 /PathSyntax.Tests/bin/Debug/netcoreapp2.2
 /PathSyntax.Tests/obj/Debug/netcoreapp2.2
 /PathSyntax.Tests/obj
+/PathSyntax/bin
+/PathSyntax.Tests/bin/Release/netcoreapp2.2
