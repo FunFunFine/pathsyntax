@@ -21,9 +21,9 @@ using static PathSyntax.Roots;
 
 var pathFromC = CDrive / "Users"; //C:\Users or C:/Users at UNIX
 
-var pathFromCurrentDirectory = CurrentDirectory / "file.f"
+var pathFromCurrentDirectory = CurrentDirectory / "file.f";
 // OR
-var pathStartingWithDot = Dot / "file.f"
+var pathStartingWithDot = Dot / "file.f";
 
 // both of the above gives ./file.f
 
